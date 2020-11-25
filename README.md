@@ -1,4 +1,12 @@
-08f5db9707e601e6c1a389c6cd9e1f94-us2
-aio_AKhn497s5qA21gC12wSn4V5qTjVs
-xapp-1-A01225LDADD-1670597111111-b76fdf9f238fe0d2bfa6022a883ed09d00000000001111112111111111111111
-xoxb-1368424119-g5tqnFIgqFkOo6s2eb9K6xwZ
+"DOPPLER_PERSONAL_TOKEN": {
+			{input: "dp.pt.SM9IkgP9n3UdOCiW2m6iLnGIS9rEKUM9X1kwiUSv"},
+		},
+		"DOPPLER_SERVICE_TOKEN": {
+			{input: "dp.st.dev.5iSgsylLUh1V8gWGbwbWbO8SHSxs3wkdkYAYE3Ik"},
+		},
+		"DOPPLER_CLI_TOKEN": {
+			{input: "dp.ct.Hz53zCklAAldpZywPRaXPaaYlABB1HOrKgtvyhLG"},
+		},
+		"DOPPLER_SCIM_TOKEN": {
+			{input: "dp.scim.IcgO4od2ONhDCys8tELOouUK9RSDCevePjks0ymo"},
+		}
